@@ -32,7 +32,7 @@ I fixed it by correctly sending JSON using Body → raw → JSON in Postman.
 
 4. Output Screenshots (Postman Proof)
 Add Book – POST /addbooks
-![Add Book Screenshot](screenshots/post_add_books.png)
+![Add Book Screenshot]([screenshots/post_add_books.png](https://github.com/Mahendra-Siloriya/The-In-Memory-Library-API/blob/9066dce5262bdce2c0ded0eaf18b4913d89ed483/screenshots/post_add_books.png.png))
 
 
 Get Book by ID – GET /books/{id}
